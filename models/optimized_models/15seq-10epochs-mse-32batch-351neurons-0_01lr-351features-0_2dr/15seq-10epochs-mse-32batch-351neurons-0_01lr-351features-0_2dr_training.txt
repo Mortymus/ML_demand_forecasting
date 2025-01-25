@@ -1,0 +1,1968 @@
+Training dataset for all articles
+                       
+        LSTM hyperparameters:
+        Number of features: 351                       
+        Sequence length: 15
+        Number of epochs: 10
+        Learning rate: 0.01
+        Loss function: mse
+        Batch size: 32
+        Number of neurons: 351
+        Dropout rate: 0.2
+            
+        Test results:
+        Mean absolute percentage error: 4.965261616204808e+17
+        Root mean squared error: 993.7587478488443
+        Mean absolute error: 417.1683377130131
+        R squared: 0.11307105034687659
+
+1. Article number: 704312101
+        Article name: POTET TIDLIG NO KG
+        Mean absolute percentage error: 2.069313465030967e+18
+        Root mean squared error: 1368.8005923990293
+        Mean absolute error: 948.7693949195711
+        R squared: 0.3493166262223971
+2. Article number: 714496301
+        Article name: NYPOTET NORSKE RØDE 1.5KG
+        Mean absolute percentage error: 1.1699462914516595e+18
+        Root mean squared error: 592.5234487104055
+        Mean absolute error: 442.48665041756595
+        R squared: 0.24159692295861857
+3. Article number: 704202601
+        Article name: GULROT BUNT POSE
+        Mean absolute percentage error: 1.084639982587368e+18
+        Root mean squared error: 769.8571407811093
+        Mean absolute error: 522.2467173397813
+        R squared: 0.22526775910867824
+4. Article number: 714496201
+        Article name: NYPOTET NORSKE GULE 1.5KG
+        Mean absolute percentage error: 1.1727831643403553e+18
+        Root mean squared error: 855.8258643696316
+        Mean absolute error: 570.310812167744
+        R squared: 0.16991874925721573
+5. Article number: 704204501
+        Article name: BÆR BRINGEBÆR 300G NO
+        Mean absolute percentage error: 1.0026666945135223e+18
+        Root mean squared error: 499.4312109330498
+        Mean absolute error: 345.30958203529116
+        R squared: 0.14392619356363778
+6. Article number: 704197701
+        Article name: DRUE GRØNN KG
+        Mean absolute percentage error: 8.732133561628716e+17
+        Root mean squared error: 519.6925949866238
+        Mean absolute error: 363.7167003230962
+        R squared: 0.13521114585265726
+7. Article number: 704288401
+        Article name: NEKTARIN KURV 1KG STK
+        Mean absolute percentage error: 8.550993580024449e+17
+        Root mean squared error: 1415.9057980415198
+        Mean absolute error: 777.6845619921634
+        R squared: 0.08996544546543472
+8. Article number: 720809801
+        Article name: DRUE COTTON CANDY 400G
+        Mean absolute percentage error: 8.594688423142319e+17
+        Root mean squared error: 1469.1708120612634
+        Mean absolute error: 453.23286519856214
+        R squared: 0.07756565825584805
+9. Article number: 704882801
+        Article name: EPLE RØDE SUMMERRED KG NO
+        Mean absolute percentage error: 9.615440063480774e+17
+        Root mean squared error: 715.5040876006625
+        Mean absolute error: 374.9668841543444
+        R squared: 0.024432603067051528
+10. Article number: 704286901
+        Article name: JORDBÆR 500G IMP
+        Mean absolute percentage error: 1.166441922332976e+18
+        Root mean squared error: 3849.6134952058474
+        Mean absolute error: 1233.6062732504927
+        R squared: 0.010279797860545226
+11. Article number: 704286101
+        Article name: MORELLER KG
+        Mean absolute percentage error: 1.1251976834290298e+18
+        Root mean squared error: 591.2346449056571
+        Mean absolute error: 404.77298912501226
+        R squared: 0.010076081963928063
+12. Article number: 704880801
+        Article name: EPLE RØDE DISCOVERY KG NO
+        Mean absolute percentage error: 1.5948625315992333e+18
+        Root mean squared error: 1239.7632157527282
+        Mean absolute error: 620.8665103709135
+        R squared: 0.009269220658685406
+13. Article number: 720997401
+        Article name: BÆR RIPS 300G NO
+        Mean absolute percentage error: 9.485000848191203e+17
+        Root mean squared error: 282.86203822778936
+        Mean absolute error: 210.60932660502024
+        R squared: 0.0
+14. Article number: 721749301
+        Article name: BROKKOLI ÄNGLAMARK 300G
+        Mean absolute percentage error: 1.0530697365193452e+18
+        Root mean squared error: 299.703750099566
+        Mean absolute error: 233.8284536039448
+        R squared: 0.0
+15. Article number: 704204401
+        Article name: JORDBÆR 500G NO
+        Mean absolute percentage error: 2.0101644783025738e+18
+        Root mean squared error: 3582.059054124355
+        Mean absolute error: 1431.2496544999074
+        R squared: -0.0006930402490610277
+16. Article number: 704292901
+        Article name: POTET NY ASSORTERT KG IMP
+        Mean absolute percentage error: 1.0255153744332833e+18
+        Root mean squared error: 1523.9787018258507
+        Mean absolute error: 653.2315503124777
+        R squared: -0.006884904404628411
+17. Article number: 704321601
+        Article name: TOMAT CHERRY RØD 250G STK
+        Mean absolute percentage error: 9.259477190992106e+17
+        Root mean squared error: 963.3478878674327
+        Mean absolute error: 565.7115498198766
+        R squared: -0.014758922271153718
+18. Article number: 708914401
+        Article name: GRESSKAR HALLOWEEN KG
+        Mean absolute percentage error: 1.7945480344551741e+18
+        Root mean squared error: 1133.8924555167532
+        Mean absolute error: 592.8640725587238
+        R squared: -0.019849442491117975
+19. Article number: 704291501
+        Article name: PLOMME FARGET 750G NO
+        Mean absolute percentage error: 1.553165088530682e+18
+        Root mean squared error: 1002.5701965527123
+        Mean absolute error: 567.3370536095838
+        R squared: -0.027438388890336896
+20. Article number: 704207501
+        Article name: JORDBÆR 400G IMP
+        Mean absolute percentage error: 1.2566880221073418e+18
+        Root mean squared error: 1723.3809716674937
+        Mean absolute error: 854.5129168204159
+        R squared: -0.034747570606007194
+21. Article number: 718941901
+        Article name: TOMAT HVERDAGSTOMAT 400G
+        Mean absolute percentage error: 1.155787731459333e+18
+        Root mean squared error: 686.6003348231626
+        Mean absolute error: 508.8491925859379
+        R squared: -0.036592995152392005
+22. Article number: 721427201
+        Article name: GULROT 750G
+        Mean absolute percentage error: 1.9058586067583324e+18
+        Root mean squared error: 1325.6941984126477
+        Mean absolute error: 870.6611259321099
+        R squared: -0.04067281197163042
+23. Article number: 704202801
+        Article name: PAPRIKA SNACK 300G IMP
+        Mean absolute percentage error: 1.0712562671199551e+18
+        Root mean squared error: 1258.1643804219784
+        Mean absolute error: 859.4453278691076
+        R squared: -0.08504533695230787
+24. Article number: 704204901
+        Article name: KAKI KG
+        Mean absolute percentage error: 6.706354887347487e+17
+        Root mean squared error: 455.2879395988667
+        Mean absolute error: 270.1823901984971
+        R squared: -0.09298741653196463
+25. Article number: 704286701
+        Article name: MELON VANN KG
+        Mean absolute percentage error: 1.3334361625591808e+17
+        Root mean squared error: 4225.041955906276
+        Mean absolute error: 1932.3283350173742
+        R squared: -0.09515580770135856
+26. Article number: 710769101
+        Article name: TOMAT SØDME 300G
+        Mean absolute percentage error: 3.454520249260657e+17
+        Root mean squared error: 636.4239225914857
+        Mean absolute error: 398.64801353442977
+        R squared: -0.10134727020728906
+27. Article number: 704209101
+        Article name: GULROT SNACK 250G
+        Mean absolute percentage error: 8.968603713722374e+16
+        Root mean squared error: 474.70345557515236
+        Mean absolute error: 292.90494510064207
+        R squared: -0.1325289619300718
+28. Article number: 706961801
+        Article name: MANGO SPISEMODEN STK
+        Mean absolute percentage error: 1.6317389618169898e+17
+        Root mean squared error: 1603.912942356818
+        Mean absolute error: 813.9240931506571
+        R squared: -0.1340974670081938
+29. Article number: 704881301
+        Article name: EPLE KANZI KG IMP
+        Mean absolute percentage error: 9.831263467616356e+17
+        Root mean squared error: 780.5663508438587
+        Mean absolute error: 624.1485522544548
+        R squared: -0.13988796820002314
+30. Article number: 704287201
+        Article name: SALAT HJERTE 2STK
+        Mean absolute percentage error: 2.1380919307436102e+17
+        Root mean squared error: 604.7214093213042
+        Mean absolute error: 455.61640617219643
+        R squared: -0.14361068859569048
+31. Article number: 713865101
+        Article name: TOMAT MINIPLOMME 500G
+        Mean absolute percentage error: 7.710787403680224e+17
+        Root mean squared error: 1034.8730377214656
+        Mean absolute error: 654.0051116420798
+        R squared: -0.1452644478217049
+32. Article number: 704292001
+        Article name: BÆR BRINGEBÆR 125G
+        Mean absolute percentage error: 3.706345943629032e+17
+        Root mean squared error: 1194.7484600967937
+        Mean absolute error: 726.4772597709203
+        R squared: -0.1484231771452611
+33. Article number: 717789901
+        Article name: PAPRIKA SNACK 200G IMP
+        Mean absolute percentage error: 1.0550768311662298e+18
+        Root mean squared error: 1383.70125361896
+        Mean absolute error: 1046.504748543285
+        R squared: -0.1504925284192793
+34. Article number: 704290901
+        Article name: ROSENKÅL 400G
+        Mean absolute percentage error: 6.027688492335619e+17
+        Root mean squared error: 579.5344029653652
+        Mean absolute error: 311.9700116022537
+        R squared: -0.1610883943564505
+35. Article number: 704291401
+        Article name: BÆR BLÅBÆR 125G IMP
+        Mean absolute percentage error: 1.3487680345304206e+17
+        Root mean squared error: 510.5382030627741
+        Mean absolute error: 352.8195068266475
+        R squared: -0.17146829459259072
+36. Article number: 710005001
+        Article name: DRUE FARGET X-TRA 500G
+        Mean absolute percentage error: 1.6149665180682467e+17
+        Root mean squared error: 604.0865935766067
+        Mean absolute error: 457.80062942272633
+        R squared: -0.20729530506993377
+37. Article number: 704197301
+        Article name: HODEKÅL KG
+        Mean absolute percentage error: 3.708428577846931e+17
+        Root mean squared error: 1446.387326395543
+        Mean absolute error: 851.4382965575614
+        R squared: -0.22537161402052663
+38. Article number: 716595501
+        Article name: SALAT RUCCOLA VASKET 65G
+        Mean absolute percentage error: 5.5739075098311584e+17
+        Root mean squared error: 823.2285600614615
+        Mean absolute error: 645.162957909989
+        R squared: -0.2359011627138652
+39. Article number: 704289901
+        Article name: GULROT X-TRA 1.5KG POSE
+        Mean absolute percentage error: 4.473231570157334e+17
+        Root mean squared error: 385.31475402530384
+        Mean absolute error: 309.09342968736064
+        R squared: -0.25232571495730394
+40. Article number: 704200701
+        Article name: KÅLROT KG
+        Mean absolute percentage error: 2.064232949968509e+17
+        Root mean squared error: 1932.4086356358584
+        Mean absolute error: 1007.1313188340929
+        R squared: -0.25712685653851475
+41. Article number: 704213101
+        Article name: SQUASH STK
+        Mean absolute percentage error: 1.599534013640441e+17
+        Root mean squared error: 329.5518244649112
+        Mean absolute error: 250.48868152612602
+        R squared: -0.2597979464728173
+42. Article number: 704317501
+        Article name: BÆR BLÅBÆR 225G SHAKER
+        Mean absolute percentage error: 3.418598841956577e+17
+        Root mean squared error: 1249.653016149894
+        Mean absolute error: 828.479249004904
+        R squared: -0.27349689243381303
+43. Article number: 715990801
+        Article name: GULROT BEGER 700G STK
+        Mean absolute percentage error: 8.583379209695823e+17
+        Root mean squared error: 487.7138252528759
+        Mean absolute error: 391.1367844998201
+        R squared: -0.27756169751148163
+44. Article number: 721487801
+        Article name: GULROT X-TRA 1KG
+        Mean absolute percentage error: 9.160008603099118e+17
+        Root mean squared error: 810.5881583124695
+        Mean absolute error: 496.55969648201534
+        R squared: -0.2831173956934778
+45. Article number: 705297201
+        Article name: POTET MANDEL 2KG
+        Mean absolute percentage error: 4.0553382805750106e+17
+        Root mean squared error: 852.612113334795
+        Mean absolute error: 558.2571784706058
+        R squared: -0.28444574779073695
+46. Article number: 704295601
+        Article name: SOPP SJAMPINJONG X-TRA 250G
+        Mean absolute percentage error: 1.3460360778738302e+17
+        Root mean squared error: 541.8542478299589
+        Mean absolute error: 405.20329143576424
+        R squared: -0.29068864143039175
+47. Article number: 704311101
+        Article name: SALAT RUCCOLA 65G
+        Mean absolute percentage error: 1.6871542630035128e+18
+        Root mean squared error: 640.872997826851
+        Mean absolute error: 507.8505669801384
+        R squared: -0.29673189636223984
+48. Article number: 704880701
+        Article name: EPLE RØDE AROMA KG NO
+        Mean absolute percentage error: 1.84044423187797e+18
+        Root mean squared error: 635.0184229342539
+        Mean absolute error: 541.5792926689624
+        R squared: -0.30144869674568286
+49. Article number: 714754801
+        Article name: SALAT MIDDELHAV 125G
+        Mean absolute percentage error: 1.1705850556709595e+17
+        Root mean squared error: 311.20512424229827
+        Mean absolute error: 250.7502005822401
+        R squared: -0.3171630092895801
+50. Article number: 704882201
+        Article name: EPLE RØDE GRAVENSTEIN KG NO
+        Mean absolute percentage error: 1.3137632698938775e+18
+        Root mean squared error: 547.8284048604144
+        Mean absolute error: 405.94250645630257
+        R squared: -0.3295509805762187
+51. Article number: 704285801
+        Article name: APPELSIN KG
+        Mean absolute percentage error: 2.67235453381552e+17
+        Root mean squared error: 4025.268988876336
+        Mean absolute error: 2358.859168448949
+        R squared: -0.32959802125132387
+52. Article number: 704036201
+        Article name: TOMAT KG
+        Mean absolute percentage error: 2.9505313754605037e+17
+        Root mean squared error: 1315.5550166807432
+        Mean absolute error: 855.1409763237475
+        R squared: -0.3436920934350469
+53. Article number: 704206901
+        Article name: EPLE PINK LADY 6STK
+        Mean absolute percentage error: 1.7958258964499555e+17
+        Root mean squared error: 468.4853320724707
+        Mean absolute error: 327.506516542246
+        R squared: -0.3441249550036316
+54. Article number: 704213401
+        Article name: AVOKADO STK
+        Mean absolute percentage error: 1.4133904696608814e+17
+        Root mean squared error: 636.7899615683315
+        Mean absolute error: 479.8882392581377
+        R squared: -0.3464391854055393
+55. Article number: 704285901
+        Article name: KLEMENTIN KG
+        Mean absolute percentage error: 5.3824727217292614e+17
+        Root mean squared error: 4591.802002125506
+        Mean absolute error: 2642.616250710219
+        R squared: -0.34982439829065193
+56. Article number: 721427801
+        Article name: GULROT 400G
+        Mean absolute percentage error: 1.3026662230726932e+18
+        Root mean squared error: 542.8622783012141
+        Mean absolute error: 392.1771458258549
+        R squared: -0.3928322514441729
+57. Article number: 704201401
+        Article name: GULROT 1KG POSE
+        Mean absolute percentage error: 6.972588578373085e+17
+        Root mean squared error: 2075.762698839492
+        Mean absolute error: 1497.650869221448
+        R squared: -0.41007426627221366
+58. Article number: 704200001
+        Article name: VÅRLØK BNT
+        Mean absolute percentage error: 1.7837127571700013e+17
+        Root mean squared error: 679.202715850311
+        Mean absolute error: 508.44221748572687
+        R squared: -0.42178528665338844
+59. Article number: 704290301
+        Article name: SUKKERERT RUNDE 150G
+        Mean absolute percentage error: 9.05697836761912e+16
+        Root mean squared error: 316.3812504622857
+        Mean absolute error: 242.2621096258294
+        R squared: -0.4257297754063476
+60. Article number: 704883101
+        Article name: EPLE RØDE KG DIV NO
+        Mean absolute percentage error: 1.0630639672420554e+18
+        Root mean squared error: 532.5673628704371
+        Mean absolute error: 307.3844448710867
+        R squared: -0.4345797790794992
+61. Article number: 704292801
+        Article name: TOMAT FLAVANCE SMAK 400G
+        Mean absolute percentage error: 2.4388629082017088e+17
+        Root mean squared error: 384.50753528883206
+        Mean absolute error: 295.8835060665415
+        R squared: -0.4350993252259501
+62. Article number: 704198001
+        Article name: BLOMKÅL STK
+        Mean absolute percentage error: 1.6401687747984022e+17
+        Root mean squared error: 1045.8864197475436
+        Mean absolute error: 789.9116586368741
+        R squared: -0.459684831010178
+63. Article number: 704197201
+        Article name: SITRON KG
+        Mean absolute percentage error: 1.3623271453488926e+17
+        Root mean squared error: 461.24809894391217
+        Mean absolute error: 330.0428951095047
+        R squared: -0.47112221089201123
+64. Article number: 704203201
+        Article name: LØK 2STK
+        Mean absolute percentage error: 1.1165402926690306e+17
+        Root mean squared error: 640.2116837375555
+        Mean absolute error: 450.9412624759761
+        R squared: -0.4724651620673783
+65. Article number: 704285501
+        Article name: EPLER GRØNNE KG
+        Mean absolute percentage error: 9.456398339462136e+16
+        Root mean squared error: 371.98754882024116
+        Mean absolute error: 288.4329143042252
+        R squared: -0.4768971223535077
+66. Article number: 704207301
+        Article name: EPLER X-TRA 1KG POSE
+        Mean absolute percentage error: 1.4858821177221098e+17
+        Root mean squared error: 402.2713075995985
+        Mean absolute error: 307.3217012878604
+        R squared: -0.49633204961833033
+67. Article number: 704285401
+        Article name: EPLER GULE KG
+        Mean absolute percentage error: 1.4755861039268224e+17
+        Root mean squared error: 581.5102876488767
+        Mean absolute error: 431.24193074242345
+        R squared: -0.4970761091512417
+68. Article number: 704197401
+        Article name: LØK KG
+        Mean absolute percentage error: 1.2100776060352574e+17
+        Root mean squared error: 476.2909526851113
+        Mean absolute error: 371.074705556466
+        R squared: -0.4977402403982387
+69. Article number: 715333801
+        Article name: POTET KOKEFAST SMÅ GULE 850G
+        Mean absolute percentage error: 6.472112614675347e+17
+        Root mean squared error: 490.3466811581121
+        Mean absolute error: 349.01017001194134
+        R squared: -0.5001162641194103
+70. Article number: 710760301
+        Article name: TOMAT AROMA 350G
+        Mean absolute percentage error: 4.5611471167609075e+17
+        Root mean squared error: 409.0609754441399
+        Mean absolute error: 292.32251869561645
+        R squared: -0.5225463006040576
+71. Article number: 704892401
+        Article name: TOMAT PERLE 175G
+        Mean absolute percentage error: 3.902264484085621e+17
+        Root mean squared error: 2613.6404207348382
+        Mean absolute error: 1779.1485384414186
+        R squared: -0.5434232064170827
+72. Article number: 704879101
+        Article name: POTET ASSORTERT LØS KG NO
+        Mean absolute percentage error: 7.286334824354071e+17
+        Root mean squared error: 2286.313248821918
+        Mean absolute error: 1728.5182654033877
+        R squared: -0.5453565544411192
+73. Article number: 704894001
+        Article name: KLEMENTIN 5KG STK
+        Mean absolute percentage error: 7.842865253458331e+17
+        Root mean squared error: 364.25531482759277
+        Mean absolute error: 213.69286505526424
+        R squared: -0.5545095413382051
+74. Article number: 704199801
+        Article name: STANGSELLERI STK
+        Mean absolute percentage error: 6.698160808058753e+16
+        Root mean squared error: 462.2670670093824
+        Mean absolute error: 279.279939079575
+        R squared: -0.5991487744084201
+75. Article number: 704286401
+        Article name: NYKÅL KG
+        Mean absolute percentage error: 1.4428791437603594e+18
+        Root mean squared error: 537.7961544681053
+        Mean absolute error: 450.8508740545589
+        R squared: -0.6082518539682675
+76. Article number: 704884101
+        Article name: DRUE FARGET STFR 500G
+        Mean absolute percentage error: 3.4460922515403085e+17
+        Root mean squared error: 1763.4011464919015
+        Mean absolute error: 1334.9034768602437
+        R squared: -0.6150846429095878
+77. Article number: 704041701
+        Article name: CHILI RØD 50G
+        Mean absolute percentage error: 1.056515313955317e+17
+        Root mean squared error: 371.35341738762907
+        Mean absolute error: 290.8139278231872
+        R squared: -0.6332593824190114
+78. Article number: 704890601
+        Article name: DRUE GRØNN STFR 500G
+        Mean absolute percentage error: 2.0898923690319126e+17
+        Root mean squared error: 1494.1064568944482
+        Mean absolute error: 1146.0634627610762
+        R squared: -0.6404077672506148
+79. Article number: 714143001
+        Article name: POTET NY 1.5KG IMP
+        Mean absolute percentage error: 1.3646230227187912e+18
+        Root mean squared error: 470.09964007470745
+        Mean absolute error: 370.24353015150655
+        R squared: -0.6440509767747711
+80. Article number: 704886401
+        Article name: POTET 2KG ASTERIX NO
+        Mean absolute percentage error: 9.773665627873263e+17
+        Root mean squared error: 533.6596386271524
+        Mean absolute error: 429.0786590227798
+        R squared: -0.6537826217307605
+81. Article number: 704036801
+        Article name: LØK X-TRA 1KG PK
+        Mean absolute percentage error: 1.1719538553416986e+17
+        Root mean squared error: 327.47533819809985
+        Mean absolute error: 254.09943614593925
+        R squared: -0.6544826887000341
+82. Article number: 704199901
+        Article name: LØK SJALOTT 250G
+        Mean absolute percentage error: 1.4348148075235763e+17
+        Root mean squared error: 371.5959253499685
+        Mean absolute error: 281.29585077991226
+        R squared: -0.6589664390052485
+83. Article number: 704042301
+        Article name: SALAT ISBERG MIKS 200G
+        Mean absolute percentage error: 2.0628690367546262e+17
+        Root mean squared error: 413.5079504197908
+        Mean absolute error: 338.80825075239534
+        R squared: -0.6620688379521993
+84. Article number: 704286001
+        Article name: PÆRE KG
+        Mean absolute percentage error: 2.1180215864853997e+17
+        Root mean squared error: 1173.7080254519137
+        Mean absolute error: 912.1953588105409
+        R squared: -0.6640404605683894
+85. Article number: 722418401
+        Article name: SALAT ISBERGMIKS 250G
+        Mean absolute percentage error: 1.622267305609477e+17
+        Root mean squared error: 414.0440519821717
+        Mean absolute error: 346.6453421663839
+        R squared: -0.6663812837115128
+86. Article number: 713124901
+        Article name: TOMAT PICCOLO SMAK 175G
+        Mean absolute percentage error: 1.0025630994578104e+17
+        Root mean squared error: 502.5850129613812
+        Mean absolute error: 373.14924788221015
+        R squared: -0.6829130156743539
+87. Article number: 704202001
+        Article name: LØK STRØMPE 700G
+        Mean absolute percentage error: 1.1031270007624437e+17
+        Root mean squared error: 678.5554054458022
+        Mean absolute error: 520.333768388815
+        R squared: -0.6894146750289627
+88. Article number: 704881701
+        Article name: EPLE RØD RED CHIEF KG IMP
+        Mean absolute percentage error: 1.1169447534655222e+18
+        Root mean squared error: 414.90108073964825
+        Mean absolute error: 320.4645359904436
+        R squared: -0.70792016897675
+89. Article number: 704203501
+        Article name: APPELSIN X-TRA 2KG NETT
+        Mean absolute percentage error: 5.452257930077196e+17
+        Root mean squared error: 397.308583111879
+        Mean absolute error: 304.49410048648826
+        R squared: -0.7195716726668102
+90. Article number: 704200501
+        Article name: SOPP SJAMPINJONG KG
+        Mean absolute percentage error: 1.180653322190077e+17
+        Root mean squared error: 342.05017698855914
+        Mean absolute error: 262.8743261165996
+        R squared: -0.7369028725866176
+91. Article number: 704286501
+        Article name: MELON HONNING KG
+        Mean absolute percentage error: 7.679726755599542e+16
+        Root mean squared error: 340.5415485211173
+        Mean absolute error: 258.6060280705514
+        R squared: -0.7549284209777094
+92. Article number: 714748301
+        Article name: SALAT FAVORITTSALAT 200G
+        Mean absolute percentage error: 1.3218071190451374e+17
+        Root mean squared error: 344.43916945953316
+        Mean absolute error: 276.6502124664446
+        R squared: -0.771225924926566
+93. Article number: 704290501
+        Article name: BANAN ÄNGLAMARK KG
+        Mean absolute percentage error: 1.1392824588118949e+17
+        Root mean squared error: 367.6190051966288
+        Mean absolute error: 296.0939853499832
+        R squared: -0.7855087538411138
+94. Article number: 704206201
+        Article name: MANGO X-TRA
+        Mean absolute percentage error: 7.561833514496235e+16
+        Root mean squared error: 331.96610122074253
+        Mean absolute error: 260.5152104115014
+        R squared: -0.7971692750354773
+95. Article number: 704881901
+        Article name: EPLE RØD ROYAL GALA KG IMP
+        Mean absolute percentage error: 2.2509916093583405e+17
+        Root mean squared error: 1420.6001780083423
+        Mean absolute error: 1119.546482881636
+        R squared: -0.8162824159544464
+96. Article number: 704207601
+        Article name: LØK HVITLØK 100G
+        Mean absolute percentage error: 1.6951911654472118e+17
+        Root mean squared error: 968.9816852209295
+        Mean absolute error: 732.048525509769
+        R squared: -0.8163814326366268
+97. Article number: 704287301
+        Article name: SØTPOTET KG
+        Mean absolute percentage error: 1.0591324562648515e+17
+        Root mean squared error: 399.5477869505272
+        Mean absolute error: 284.9849804801302
+        R squared: -0.823786923567196
+98. Article number: 704199301
+        Article name: ISBERG STK
+        Mean absolute percentage error: 2.3181717745222675e+17
+        Root mean squared error: 1874.3017546228066
+        Mean absolute error: 1464.7540972403376
+        R squared: -0.8302623049007016
+99. Article number: 711008101
+        Article name: SOMMERMIX MINIAGURK 250G
+        Mean absolute percentage error: 4.6659114675786586e+17
+        Root mean squared error: 323.1216039057637
+        Mean absolute error: 257.5971125366118
+        R squared: -0.8352639804524853
+100. Article number: 704198101
+        Article name: BROKKOLI STK
+        Mean absolute percentage error: 2.3346902354780202e+17
+        Root mean squared error: 1776.865848113855
+        Mean absolute error: 1404.099869656962
+        R squared: -0.8463896802190212
+101. Article number: 714077101
+        Article name: SOMMERMIKS MINIPAPRIKA 160G
+        Mean absolute percentage error: 3.1362564259329197e+17
+        Root mean squared error: 290.5464862154493
+        Mean absolute error: 231.40101944620025
+        R squared: -0.863344879401098
+102. Article number: 704038201
+        Article name: SALAT CRISPI BGR 150G
+        Mean absolute percentage error: 2.378985255364661e+17
+        Root mean squared error: 1927.9284427662708
+        Mean absolute error: 1582.4345138642705
+        R squared: -0.8938168847548276
+103. Article number: 711770601
+        Article name: POTET NYPOTETER SMÅ 700G
+        Mean absolute percentage error: 9.831747792708678e+17
+        Root mean squared error: 342.19466102748373
+        Mean absolute error: 270.3951586080287
+        R squared: -0.899593929068194
+104. Article number: 704197501
+        Article name: PAPRIKA RØD KG 70+
+        Mean absolute percentage error: 9.221945794343322e+16
+        Root mean squared error: 651.1788606593109
+        Mean absolute error: 526.1647582845238
+        R squared: -0.9085627789797801
+105. Article number: 704197601
+        Article name: PURRE KG
+        Mean absolute percentage error: 6.2703107362338344e+16
+        Root mean squared error: 295.0482280347602
+        Mean absolute error: 225.72745258441617
+        R squared: -0.9433799582893447
+106. Article number: 715251701
+        Article name: AVOKADO NETT 800G
+        Mean absolute percentage error: 1.13567898909524e+17
+        Root mean squared error: 298.55752221921585
+        Mean absolute error: 227.11953673805456
+        R squared: -0.9528098855298792
+107. Article number: 704205801
+        Article name: KIWI GRØNN STK
+        Mean absolute percentage error: 3.00407955055207e+17
+        Root mean squared error: 1968.6216824811995
+        Mean absolute error: 1615.963434901593
+        R squared: -0.966680347154615
+108. Article number: 704301101
+        Article name: POTET X-TRA 4 KG
+        Mean absolute percentage error: 1.5858594679600032e+17
+        Root mean squared error: 370.40221423354376
+        Mean absolute error: 285.3905019542398
+        R squared: -0.9718621484904437
+109. Article number: 704198801
+        Article name: KINAKÅL STK
+        Mean absolute percentage error: 9.978431605103875e+16
+        Root mean squared error: 268.00328233484464
+        Mean absolute error: 213.01811550378437
+        R squared: -0.972043247725074
+110. Article number: 704202401
+        Article name: LØK RØD STRØMPE 400G
+        Mean absolute percentage error: 1.453960213250905e+17
+        Root mean squared error: 1191.0034999021386
+        Mean absolute error: 950.1763159230783
+        R squared: -0.9761216686005003
+111. Article number: 704208101
+        Article name: LØK RØD X-TRA 1KG PK
+        Mean absolute percentage error: 5.1368527119896296e+16
+        Root mean squared error: 247.06450398123047
+        Mean absolute error: 185.14697264463751
+        R squared: -1.053696847057819
+112. Article number: 704291601
+        Article name: AVOKADO MODNET 2PK
+        Mean absolute percentage error: 2.100543310556873e+17
+        Root mean squared error: 1953.3859520680915
+        Mean absolute error: 1570.655481834934
+        R squared: -1.0708505225503044
+113. Article number: 704211001
+        Article name: APRIKOS SMAK 350G KURV
+        Mean absolute percentage error: 6.394194546731122e+17
+        Root mean squared error: 307.46211937081944
+        Mean absolute error: 226.60522215914327
+        R squared: -1.0926007843773529
+114. Article number: 704038501
+        Article name: TOMAT CHERRY X-TRA 250G STK
+        Mean absolute percentage error: 1.0320782621960779e+17
+        Root mean squared error: 940.4321373648673
+        Mean absolute error: 762.4769158559303
+        R squared: -1.1396672049347467
+115. Article number: 710034501
+        Article name: DRUE GRØNN X-TRA 500G
+        Mean absolute percentage error: 1.333824474670874e+17
+        Root mean squared error: 387.6896356823244
+        Mean absolute error: 316.81721951790956
+        R squared: -1.1496180497676876
+116. Article number: 704884301
+        Article name: POTET 2KG FOLVA NO
+        Mean absolute percentage error: 5.2120328241820006e+17
+        Root mean squared error: 392.9086383479235
+        Mean absolute error: 314.7523204391224
+        R squared: -1.1859876831545604
+117. Article number: 704882701
+        Article name: EPLE RØDE RUBINSTEP KG NO
+        Mean absolute percentage error: 1.2049314626696645e+18
+        Root mean squared error: 494.02038734170407
+        Mean absolute error: 404.5328454840673
+        R squared: -1.2552368594806689
+118. Article number: 704306201
+        Article name: APPELSIN RØD SMAK 1KG NETT
+        Mean absolute percentage error: 1.0497234649507103e+18
+        Root mean squared error: 422.1723115725501
+        Mean absolute error: 345.4354901335555
+        R squared: -1.3017000371049696
+119. Article number: 704206001
+        Article name: KLEMENTIN X-TRA 1KG NETT
+        Mean absolute percentage error: 1.7465899680988278e+18
+        Root mean squared error: 623.7810994754751
+        Mean absolute error: 500.8337677327102
+        R squared: -1.3340839465456926
+120. Article number: 704212701
+        Article name: ASPARGES GRØNN 250G BNT
+        Mean absolute percentage error: 1.7542620254784147e+17
+        Root mean squared error: 362.3894335410693
+        Mean absolute error: 287.50382216408553
+        R squared: -1.4333491704695938
+121. Article number: 704296001
+        Article name: LØK HVITLØK KINA 100G
+        Mean absolute percentage error: 7.809011834599043e+16
+        Root mean squared error: 242.68035998955176
+        Mean absolute error: 192.1497522235098
+        R squared: -1.5599923935712066
+122. Article number: 703911401
+        Article name: SALAT SPINAT VASKET 200G
+        Mean absolute percentage error: 9.74852152460806e+16
+        Root mean squared error: 308.9800483967765
+        Mean absolute error: 246.4489039765101
+        R squared: -1.5668635137004236
+123. Article number: 722499701
+        Article name: SALAT PIZZASALAT 65G
+        Mean absolute percentage error: 1.3151006893437742e+17
+        Root mean squared error: 310.6423538017767
+        Mean absolute error: 243.3493122466623
+        R squared: -1.594557140234977
+124. Article number: 704893701
+        Article name: BANAN X-TRA KG
+        Mean absolute percentage error: 1.9046654568419206e+17
+        Root mean squared error: 1918.4013073447722
+        Mean absolute error: 1669.9649421366746
+        R squared: -1.5995856361474377
+125. Article number: 711831201
+        Article name: BÆR BLÅBÆR 400G
+        Mean absolute percentage error: 6.939690321801452e+16
+        Root mean squared error: 241.8395835300668
+        Mean absolute error: 189.97555806756563
+        R squared: -1.7526616687689844
+126. Article number: 704894701
+        Article name: POTET 2KG BEATE NO
+        Mean absolute percentage error: 5.4038327773328794e+17
+        Root mean squared error: 327.66891090112654
+        Mean absolute error: 261.0392204412405
+        R squared: -1.8360413852887536
+127. Article number: 704198901
+        Article name: PAPRIKA MIX STK
+        Mean absolute percentage error: 1.7520389124900077e+17
+        Root mean squared error: 299.8767011526332
+        Mean absolute error: 243.02337760867232
+        R squared: -1.8544010018161314
+128. Article number: 720457701
+        Article name: PAPRIKA X-TRA KG
+        Mean absolute percentage error: 7.004905894661132e+17
+        Root mean squared error: 313.00130146342957
+        Mean absolute error: 248.26410700596267
+        R squared: -2.053816877490889
+129. Article number: 704318601
+        Article name: LIME KG
+        Mean absolute percentage error: 6.299346956120988e+16
+        Root mean squared error: 255.72954952091357
+        Mean absolute error: 200.51491424119274
+        R squared: -2.0830117482230794
+130. Article number: 704892001
+        Article name: KRY.URT ÄNGLAM 8CM KORIANDER
+        Mean absolute percentage error: 7.217801485355674e+16
+        Root mean squared error: 278.56014222637873
+        Mean absolute error: 222.95675861817335
+        R squared: -2.1380327810704736
+131. Article number: 704206401
+        Article name: HODEKÅL RØD KG
+        Mean absolute percentage error: 3.185544129964444e+17
+        Root mean squared error: 323.9437232530059
+        Mean absolute error: 236.57633465283538
+        R squared: -2.2049648798510315
+132. Article number: 704197901
+        Article name: AGURK STK
+        Mean absolute percentage error: 2.2245360707116266e+17
+        Root mean squared error: 8414.41930074722
+        Mean absolute error: 7171.963798157156
+        R squared: -2.271745979344047
+133. Article number: 704285301
+        Article name: BANAN KG
+        Mean absolute percentage error: 2.4690008200172355e+17
+        Root mean squared error: 6399.379347263122
+        Mean absolute error: 5670.694145411661
+        R squared: -2.3589888417470846
+134. Article number: 704205001
+        Article name: PÆRE X-TRA 1KG
+        Mean absolute percentage error: 3.0225207275540717e+17
+        Root mean squared error: 287.99339386830644
+        Mean absolute error: 219.00846550707766
+        R squared: -2.421867522994977
+135. Article number: 717608201
+        Article name: EPLE RØDE POSEPAKKET KG NO
+        Mean absolute percentage error: 7.973564259225742e+17
+        Root mean squared error: 290.46056615217697
+        Mean absolute error: 220.54100468024453
+        R squared: -2.5956495880372352
+136. Article number: 715388201
+        Article name: POTET KOKEFAST GUL 1.2KG
+        Mean absolute percentage error: 5.691053403352383e+17
+        Root mean squared error: 348.5123960642449
+        Mean absolute error: 270.18431908246043
+        R squared: -2.625705288503852
+137. Article number: 705222601
+        Article name: POTET X-TRA MANDEL 2KG
+        Mean absolute percentage error: 1.5572140808923507e+18
+        Root mean squared error: 457.64999789294677
+        Mean absolute error: 387.3062871355263
+        R squared: -2.6416771547614064
+138. Article number: 720482401
+        Article name: FERSKEN PARAGUAYO SMAK 500G
+        Mean absolute percentage error: 1.0895826373842497e+18
+        Root mean squared error: 348.84290679504
+        Mean absolute error: 282.2509369407433
+        R squared: -2.795066246254309
+139. Article number: 704303801
+        Article name: SALAT BABYLEAF VASKET 65G STK
+        Mean absolute percentage error: 1.4570794886200557e+17
+        Root mean squared error: 297.12539687775865
+        Mean absolute error: 231.3764813218487
+        R squared: -2.901605330929177
+140. Article number: 704038701
+        Article name: PAPRIKA SNACK SMAK 2STK
+        Mean absolute percentage error: 7.597177018195887e+17
+        Root mean squared error: 396.02490866877355
+        Mean absolute error: 325.5346657914114
+        R squared: -2.904422569749385
+141. Article number: 714754901
+        Article name: SALAT SPINAT BABY VASK 100G
+        Mean absolute percentage error: 1.795216996909857e+17
+        Root mean squared error: 362.71792507279577
+        Mean absolute error: 298.8103172557721
+        R squared: -2.9100580797742825
+142. Article number: 704039901
+        Article name: SALAT ROMANOMIKS 200G
+        Mean absolute percentage error: 2.1433976383807776e+17
+        Root mean squared error: 192.5277079463012
+        Mean absolute error: 149.7204093033139
+        R squared: -2.927241126706978
+143. Article number: 704198301
+        Article name: NEPE BNT
+        Mean absolute percentage error: 5.796671034080754e+17
+        Root mean squared error: 281.39845979220223
+        Mean absolute error: 219.91790701228916
+        R squared: -2.933231363776214
+144. Article number: 715385001
+        Article name: POTET KOKEFAST RØD 1.2KG
+        Mean absolute percentage error: 4.843697521380746e+17
+        Root mean squared error: 299.52952041588475
+        Mean absolute error: 236.2559950493242
+        R squared: -2.946988556216929
+145. Article number: 720040701
+        Article name: SITRON ÄNGLAMARK STK
+        Mean absolute percentage error: 8.971373442295612e+17
+        Root mean squared error: 388.744968490988
+        Mean absolute error: 322.37645436349345
+        R squared: -3.037265076768781
+146. Article number: 704199201
+        Article name: GRANATEPLE STK
+        Mean absolute percentage error: 1.3739029885346962e+17
+        Root mean squared error: 333.4043875983263
+        Mean absolute error: 269.428304715788
+        R squared: -3.247251652154846
+147. Article number: 704302101
+        Article name: BÆR TYTTEBÆR 650G
+        Mean absolute percentage error: 1.0561276476707305e+18
+        Root mean squared error: 330.88911415802437
+        Mean absolute error: 258.0027499148109
+        R squared: -3.2574454287114403
+148. Article number: 707106001
+        Article name: SOPP AROMA 200G
+        Mean absolute percentage error: 8.519368642797317e+16
+        Root mean squared error: 240.87790196838972
+        Mean absolute error: 183.23564979982885
+        R squared: -3.6007852643048412
+149. Article number: 716353401
+        Article name: POTET AMANDINE 1.5KG
+        Mean absolute percentage error: 4.731193914059723e+17
+        Root mean squared error: 259.84682816468285
+        Mean absolute error: 210.79438880444297
+        R squared: -3.733236971291652
+150. Article number: 704036701
+        Article name: AGURK ÄNGLAMARK STK
+        Mean absolute percentage error: 1.1000792333955234e+17
+        Root mean squared error: 354.6439107805548
+        Mean absolute error: 286.1315836681441
+        R squared: -3.774153706320692
+151. Article number: 704882101
+        Article name: EPLE RØDE ELSTAR KG NO
+        Mean absolute percentage error: 9.125005891783805e+17
+        Root mean squared error: 291.61215872410486
+        Mean absolute error: 232.68971891708026
+        R squared: -4.097147877758096
+152. Article number: 717686601
+        Article name: GRESSKAR HALLOWEEN 12KG
+        Mean absolute percentage error: 1.0170716764828644e+18
+        Root mean squared error: 326.6447522751469
+        Mean absolute error: 253.03225564593777
+        R squared: -4.169980196727731
+153. Article number: 704209001
+        Article name: EPLE RØD SMAK 6 STK NO
+        Mean absolute percentage error: 7.819092640592237e+17
+        Root mean squared error: 300.49314250871447
+        Mean absolute error: 234.12709878024447
+        R squared: -4.259084608794989
+154. Article number: 704287001
+        Article name: REDDIK BUNT
+        Mean absolute percentage error: 7.687373384105542e+17
+        Root mean squared error: 355.30339456318313
+        Mean absolute error: 282.8176381823861
+        R squared: -4.27825381504393
+155. Article number: 704891901
+        Article name: KRY.URT ÄNGLAM 8CM BASILIKUM
+        Mean absolute percentage error: 1.0057248300230166e+17
+        Root mean squared error: 325.85735787401205
+        Mean absolute error: 260.52753083854685
+        R squared: -4.399030452647643
+156. Article number: 720809701
+        Article name: DRUE CANDY GRAPES 400G
+        Mean absolute percentage error: 8.816224778353537e+17
+        Root mean squared error: 279.45703549558385
+        Mean absolute error: 218.83613195085454
+        R squared: -4.5646032327881905
+157. Article number: 714755001
+        Article name: DADLER 600G PK
+        Mean absolute percentage error: 1.8582930354065168e+17
+        Root mean squared error: 304.82663197382703
+        Mean absolute error: 239.30380611332583
+        R squared: -4.815154476750877
+158. Article number: 704201001
+        Article name: SELLERIROT KG
+        Mean absolute percentage error: 8.771123870938176e+16
+        Root mean squared error: 271.9856649397246
+        Mean absolute error: 210.01338986029546
+        R squared: -5.0911968036366755
+159. Article number: 717579701
+        Article name: SALAT SPINAT 200G
+        Mean absolute percentage error: 8.205397981964101e+17
+        Root mean squared error: 266.056190921301
+        Mean absolute error: 193.67019602806056
+        R squared: -5.233642207449548
+160. Article number: 704038401
+        Article name: PAPRIKA SNACK ÄNGLAMARK 2STK
+        Mean absolute percentage error: 9.872350177788662e+16
+        Root mean squared error: 279.3948409018764
+        Mean absolute error: 229.9633904142104
+        R squared: -5.285063808890136
+161. Article number: 708657201
+        Article name: SALAT RÅKOST 250G
+        Mean absolute percentage error: 1.519453926362246e+17
+        Root mean squared error: 196.6144905338971
+        Mean absolute error: 164.6063229228445
+        R squared: -5.818641962591616
+162. Article number: 704206501
+        Article name: GULROT ÄNGLAMARK 700G
+        Mean absolute percentage error: 9.934215145594987e+16
+        Root mean squared error: 296.22527629317034
+        Mean absolute error: 232.77601116070102
+        R squared: -5.919693100780668
+163. Article number: 704313801
+        Article name: PURRE BNT 3STK
+        Mean absolute percentage error: 7.126718170652653e+17
+        Root mean squared error: 248.44356452513318
+        Mean absolute error: 199.38520634156203
+        R squared: -5.946460151721588
+164. Article number: 720445901
+        Article name: TØRKET MANGO 200G
+        Mean absolute percentage error: 6.288930332845298e+17
+        Root mean squared error: 264.23647040362704
+        Mean absolute error: 213.3251877992302
+        R squared: -6.166040435247413
+165. Article number: 704199001
+        Article name: REDDIK 150G PK
+        Mean absolute percentage error: 3.5589732945730426e+17
+        Root mean squared error: 266.74174699597813
+        Mean absolute error: 210.1669444892686
+        R squared: -6.295007048197094
+166. Article number: 704041601
+        Article name: AUBERGIN IMP STK
+        Mean absolute percentage error: 9.605290387392813e+16
+        Root mean squared error: 245.3886843183727
+        Mean absolute error: 196.52926050473565
+        R squared: -6.324246360334956
+167. Article number: 710760201
+        Article name: COOP GP COLESLAWMIKS 300G
+        Mean absolute percentage error: 4.671124307432556e+17
+        Root mean squared error: 206.45118413074798
+        Mean absolute error: 151.63336082353985
+        R squared: -6.326257815992784
+168. Article number: 704204101
+        Article name: LØK ÄNGLAMARK 400G
+        Mean absolute percentage error: 8.47107972536967e+16
+        Root mean squared error: 265.59249542800393
+        Mean absolute error: 213.07040436627113
+        R squared: -6.668278255557461
+169. Article number: 717579601
+        Article name: SALAT SPINAT BABY 100G
+        Mean absolute percentage error: 1.1122140032551855e+18
+        Root mean squared error: 340.3674747225009
+        Mean absolute error: 259.3896898533837
+        R squared: -6.806459375845256
+170. Article number: 704892101
+        Article name: KRY.URT ÄNGLAM 8CM KRUSPERSIL.
+        Mean absolute percentage error: 1.227248791932865e+17
+        Root mean squared error: 295.7076604590666
+        Mean absolute error: 221.1568694150974
+        R squared: -6.974688839096868
+171. Article number: 717639901
+        Article name: POTET MANDEL X-TRA 5KG
+        Mean absolute percentage error: 1.0645149474053879e+18
+        Root mean squared error: 335.62162897366693
+        Mean absolute error: 258.3150177292265
+        R squared: -7.026952858765382
+172. Article number: 703911201
+        Article name: FENNIKEL 200G
+        Mean absolute percentage error: 6.676473270677814e+16
+        Root mean squared error: 209.36335192996947
+        Mean absolute error: 165.9818162555201
+        R squared: -7.640765713624035
+173. Article number: 704040501
+        Article name: TOMAT PLOMME MINI ÄNGLAM 250G
+        Mean absolute percentage error: 7.434967042060483e+16
+        Root mean squared error: 245.83174181724314
+        Mean absolute error: 198.35215878885813
+        R squared: -7.698283105395197
+174. Article number: 714462801
+        Article name: KIWI GUL 4PK
+        Mean absolute percentage error: 1.628893809957179e+17
+        Root mean squared error: 210.2116473026599
+        Mean absolute error: 161.57437503646315
+        R squared: -7.802868173057654
+175. Article number: 720475001
+        Article name: PLOMME SMAK 500G
+        Mean absolute percentage error: 1.2481588750700096e+18
+        Root mean squared error: 400.5458836405722
+        Mean absolute error: 320.0991886551159
+        R squared: -7.845478837872458
+176. Article number: 704317401
+        Article name: ANANAS STK
+        Mean absolute percentage error: 7.54929240087935e+16
+        Root mean squared error: 345.8292645132302
+        Mean absolute error: 266.82969002455155
+        R squared: -7.9348114498342035
+177. Article number: 704038801
+        Article name: BROKKOLI ØKO 300G STK
+        Mean absolute percentage error: 5.251984819684082e+17
+        Root mean squared error: 240.6477896020893
+        Mean absolute error: 191.85431552114733
+        R squared: -7.954185094098836
+178. Article number: 720042001
+        Article name: APPELSIN ÄNGLAMARK STK
+        Mean absolute percentage error: 9.260010292792471e+17
+        Root mean squared error: 342.6161014926141
+        Mean absolute error: 265.8667365905901
+        R squared: -8.392434930352499
+179. Article number: 704891001
+        Article name: KRY.URT ÄNGLAM 8CM DILL
+        Mean absolute percentage error: 1.2277438747088747e+17
+        Root mean squared error: 320.4387800677934
+        Mean absolute error: 273.0450309915993
+        R squared: -9.16085658889656
+180. Article number: 704884501
+        Article name: POTET 2KG NANSEN NO
+        Mean absolute percentage error: 7.459678948977069e+17
+        Root mean squared error: 413.55261331299266
+        Mean absolute error: 310.2268701318192
+        R squared: -9.476459430716195
+181. Article number: 704211301
+        Article name: PERSILLEROT 200G
+        Mean absolute percentage error: 1.117310124437593e+17
+        Root mean squared error: 325.72470848274475
+        Mean absolute error: 251.81228930910248
+        R squared: -10.097358036999973
+182. Article number: 722521001
+        Article name: SALAT COLESLAWMIKS 250G
+        Mean absolute percentage error: 2.675309104968186e+17
+        Root mean squared error: 252.88426471836866
+        Mean absolute error: 201.72969065627007
+        R squared: -10.280035234591777
+183. Article number: 704041901
+        Article name: RØDBETE ÄNGLAMARK 500G
+        Mean absolute percentage error: 5.1429687885649235e+17
+        Root mean squared error: 198.90761049960403
+        Mean absolute error: 151.90921211532986
+        R squared: -10.522817422704463
+184. Article number: 720130901
+        Article name: GRAPEFRUKT STK
+        Mean absolute percentage error: 7.418650796794185e+17
+        Root mean squared error: 365.8209786321529
+        Mean absolute error: 300.7729801834083
+        R squared: -10.58957623986697
+185. Article number: 704884801
+        Article name: POTET 2KG PIMPERNELL NO
+        Mean absolute percentage error: 5.891590156488676e+17
+        Root mean squared error: 314.79060095330397
+        Mean absolute error: 249.88426962726192
+        R squared: -11.192583777755866
+186. Article number: 704200301
+        Article name: EPLER ÄNGLAMARK 600G
+        Mean absolute percentage error: 1.5583097983577843e+17
+        Root mean squared error: 367.66836913514317
+        Mean absolute error: 303.3933149247772
+        R squared: -11.7158341147219
+187. Article number: 717575301
+        Article name: EPLE NORSK 2KG
+        Mean absolute percentage error: 1.4714513950266394e+18
+        Root mean squared error: 432.36806891677827
+        Mean absolute error: 346.1032644297979
+        R squared: -12.119515948991863
+188. Article number: 714078301
+        Article name: PAPRIKA PADRÓN 200G
+        Mean absolute percentage error: 9.579792849242278e+16
+        Root mean squared error: 183.03735369134057
+        Mean absolute error: 138.92529783437604
+        R squared: -12.236835244704777
+189. Article number: 704290101
+        Article name: MELON CANTALOUPE KG
+        Mean absolute percentage error: 7.711148733722181e+16
+        Root mean squared error: 300.47388523066485
+        Mean absolute error: 235.84105940750564
+        R squared: -12.56942695231277
+190. Article number: 721219501
+        Article name: MINIPAPRIKA UTEN FRØ 200G
+        Mean absolute percentage error: 1.2686977117198226e+18
+        Root mean squared error: 390.7177984665442
+        Mean absolute error: 322.62738192135885
+        R squared: -12.999491684002326
+191. Article number: 704201701
+        Article name: SPISSKÅL STK
+        Mean absolute percentage error: 1.3627455060193002e+17
+        Root mean squared error: 238.2164911883335
+        Mean absolute error: 192.17826070451665
+        R squared: -13.947697429290477
+192. Article number: 704290001
+        Article name: TOMAT BIFF KG
+        Mean absolute percentage error: 5.3393080857214694e+17
+        Root mean squared error: 288.7449852483977
+        Mean absolute error: 228.79809874559282
+        R squared: -14.167554236361163
+193. Article number: 711929301
+        Article name: BÆR BLÅBÆR 125G NO
+        Mean absolute percentage error: 8.90424487165206e+17
+        Root mean squared error: 309.5766932200109
+        Mean absolute error: 247.77974780473173
+        R squared: -14.249128209765535
+194. Article number: 708204901
+        Article name: BROKKOLI ÄNGLAMARK 300G
+        Mean absolute percentage error: 4.2459486138149875e+17
+        Root mean squared error: 197.67381996897248
+        Mean absolute error: 151.99417475405713
+        R squared: -15.003872497574037
+195. Article number: 715333901
+        Article name: POTET MANDEL SMÅ 850G
+        Mean absolute percentage error: 4.737269185177085e+17
+        Root mean squared error: 264.3657030392881
+        Mean absolute error: 203.5790341288713
+        R squared: -15.157431219741461
+196. Article number: 704200401
+        Article name: BLOMKÅL ØKO STK
+        Mean absolute percentage error: 1.2356717491789613e+17
+        Root mean squared error: 297.81966049001477
+        Mean absolute error: 230.76901763033467
+        R squared: -15.562740361419362
+197. Article number: 714200901
+        Article name: BÆR BRINGEBÆR 225G
+        Mean absolute percentage error: 4.135939775314002e+17
+        Root mean squared error: 367.1027922538231
+        Mean absolute error: 274.0788791952612
+        R squared: -15.851205136333718
+198. Article number: 708857401
+        Article name: BÆR KIWIBÆR 125G
+        Mean absolute percentage error: 7.683676109426757e+17
+        Root mean squared error: 380.6306165533855
+        Mean absolute error: 287.1256660333689
+        R squared: -16.04668315452395
+199. Article number: 720446001
+        Article name: TØRKET FERSKEN 200G
+        Mean absolute percentage error: 7.79415169673259e+17
+        Root mean squared error: 331.37024820989876
+        Mean absolute error: 265.86214416829057
+        R squared: -16.189346178733956
+200. Article number: 704039001
+        Article name: SALAT GRØNNKÅL VASKET 150G
+        Mean absolute percentage error: 8.112185069765774e+16
+        Root mean squared error: 320.7629907730278
+        Mean absolute error: 256.25366662082064
+        R squared: -16.24606887738927
+201. Article number: 704889301
+        Article name: PASTINAKK 200G
+        Mean absolute percentage error: 3.492385724024357e+17
+        Root mean squared error: 282.56528562830727
+        Mean absolute error: 218.38782528510015
+        R squared: -16.432875100200455
+202. Article number: 704321301
+        Article name: POTET BAKE FOLIE KG
+        Mean absolute percentage error: 2.8595697256100624e+17
+        Root mean squared error: 351.7537154807909
+        Mean absolute error: 287.50804197407206
+        R squared: -17.074529118536326
+203. Article number: 704205501
+        Article name: PASJONSFRUKT 3STK
+        Mean absolute percentage error: 8.480792284658506e+16
+        Root mean squared error: 239.59318183779263
+        Mean absolute error: 186.89744405296477
+        R squared: -17.289210645474544
+204. Article number: 714688201
+        Article name: KIWI GRØNN SPISEMODEN 4PK
+        Mean absolute percentage error: 1.9818771575985642e+17
+        Root mean squared error: 320.75088188159714
+        Mean absolute error: 254.02575232449186
+        R squared: -17.47002414090988
+205. Article number: 722147801
+        Article name: TØRKET ANANAS 200G
+        Mean absolute percentage error: 6.983328704338282e+17
+        Root mean squared error: 220.22616166583572
+        Mean absolute error: 170.29979475302966
+        R squared: -18.0434856832122
+206. Article number: 704201501
+        Article name: ISBERG ØKO STK
+        Mean absolute percentage error: 1.6133127386228874e+17
+        Root mean squared error: 234.79280796497247
+        Mean absolute error: 180.69112722550716
+        R squared: -18.244029552635933
+207. Article number: 713084701
+        Article name: BÆR PHYSALIS 125G
+        Mean absolute percentage error: 5.981320223094169e+16
+        Root mean squared error: 217.61455613091127
+        Mean absolute error: 163.6956885234769
+        R squared: -18.957399907647304
+208. Article number: 704208001
+        Article name: PLOMME FARGET KG
+        Mean absolute percentage error: 1.1342836907183603e+18
+        Root mean squared error: 337.5341486864055
+        Mean absolute error: 279.1537421646002
+        R squared: -19.60984655218467
+209. Article number: 720482101
+        Article name: NEKTARIN SMAK 460G
+        Mean absolute percentage error: 1.5251467318578258e+18
+        Root mean squared error: 424.306679937242
+        Mean absolute error: 358.63615494122786
+        R squared: -19.76346627147888
+210. Article number: 704037401
+        Article name: DILL 6STK PK
+        Mean absolute percentage error: 6.305672497662956e+16
+        Root mean squared error: 252.16325914735393
+        Mean absolute error: 196.30481415143296
+        R squared: -20.708719242067698
+211. Article number: 708625001
+        Article name: SALAT WOKMIKS 300G
+        Mean absolute percentage error: 5.527326456535066e+16
+        Root mean squared error: 266.88293420302256
+        Mean absolute error: 205.75351652090225
+        R squared: -20.822691979092532
+212. Article number: 704200101
+        Article name: HODEKÅL ÄNGLAMARK KG
+        Mean absolute percentage error: 2.6082348687334323e+17
+        Root mean squared error: 266.48623809252507
+        Mean absolute error: 213.32902694075074
+        R squared: -22.08112379984713
+213. Article number: 715333701
+        Article name: POTET CELANDINE DEL. SMAK 650G
+        Mean absolute percentage error: 5.3273293688505286e+17
+        Root mean squared error: 221.07646283397133
+        Mean absolute error: 168.66505527931807
+        R squared: -23.276945833118226
+214. Article number: 704204301
+        Article name: LØK RØD ÄNGLAMARK 400G
+        Mean absolute percentage error: 8.84650990046731e+16
+        Root mean squared error: 319.3828399423835
+        Mean absolute error: 246.43160460310983
+        R squared: -23.471889801125428
+215. Article number: 718998601
+        Article name: GUACAMOLE 150G
+        Mean absolute percentage error: 6.911685222496323e+17
+        Root mean squared error: 329.146259124234
+        Mean absolute error: 258.0856102721332
+        R squared: -23.688955555570196
+216. Article number: 715302101
+        Article name: RØDBETE ÄNGLAMARK 750G
+        Mean absolute percentage error: 2.546696047538339e+17
+        Root mean squared error: 213.1514298124968
+        Mean absolute error: 172.54907840862302
+        R squared: -24.271980391788745
+217. Article number: 704209401
+        Article name: ROTMIX ÄNGLAMARK 1KG BGR
+        Mean absolute percentage error: 4.85874531284023e+17
+        Root mean squared error: 348.39589266408984
+        Mean absolute error: 273.7358163342991
+        R squared: -24.76967041432221
+218. Article number: 720477001
+        Article name: SALAT RUCCOLA ÄNGLAM UVASK 50G
+        Mean absolute percentage error: 4.5134695500772224e+17
+        Root mean squared error: 189.30685624683804
+        Mean absolute error: 145.47025006437954
+        R squared: -26.04797960660789
+219. Article number: 704890401
+        Article name: KRY.URT ÄNGLAM 8CM ROSMARIN
+        Mean absolute percentage error: 9.40020192048355e+16
+        Root mean squared error: 419.63086370685073
+        Mean absolute error: 302.77628153970795
+        R squared: -27.604941782710576
+220. Article number: 716521001
+        Article name: EPLE RØD COSMIC CRISP 4PK
+        Mean absolute percentage error: 8.308415605798883e+17
+        Root mean squared error: 269.1532285136707
+        Mean absolute error: 217.09614197776017
+        R squared: -29.95660880643791
+221. Article number: 704041801
+        Article name: CHILI GRØNN 50G
+        Mean absolute percentage error: 9.806056519500614e+16
+        Root mean squared error: 226.34882057726884
+        Mean absolute error: 179.22272222626336
+        R squared: -30.037884181442084
+222. Article number: 704892301
+        Article name: KRY.URT ÄNGLAM 8CM TIMIAN
+        Mean absolute percentage error: 1.1510675737235306e+17
+        Root mean squared error: 366.2282799602822
+        Mean absolute error: 303.88337039802354
+        R squared: -31.63481821239384
+223. Article number: 704204201
+        Article name: POMELO STK
+        Mean absolute percentage error: 6.666285214186819e+17
+        Root mean squared error: 296.10603405676187
+        Mean absolute error: 236.5277172303454
+        R squared: -31.79698249125569
+224. Article number: 704211701
+        Article name: LØK HVITLØK ÄNGLAMARK 100G
+        Mean absolute percentage error: 1.7356659684256086e+17
+        Root mean squared error: 305.9827358933074
+        Mean absolute error: 235.07680312901326
+        R squared: -31.99644892352982
+225. Article number: 704890301
+        Article name: KRY.URT ÄNGLAM 8CM MYNTE
+        Mean absolute percentage error: 1.2806489136835931e+17
+        Root mean squared error: 396.45114058504447
+        Mean absolute error: 338.21290431610527
+        R squared: -34.89611902055145
+226. Article number: 704206701
+        Article name: ASPARGESTOPP 200G
+        Mean absolute percentage error: 2.6590036210464288e+17
+        Root mean squared error: 264.745511903927
+        Mean absolute error: 193.94094353360853
+        R squared: -37.481598204909474
+227. Article number: 712253001
+        Article name: BØNNE ASPARGES 200G
+        Mean absolute percentage error: 9.794054848546314e+16
+        Root mean squared error: 222.22758124784377
+        Mean absolute error: 171.99198436301592
+        R squared: -38.01273755564846
+228. Article number: 704208501
+        Article name: SELLERI BUNT
+        Mean absolute percentage error: 1.3041062892861315e+18
+        Root mean squared error: 428.0120797804046
+        Mean absolute error: 321.4791563780159
+        R squared: -38.99407784816671
+229. Article number: 704210501
+        Article name: KLEMENTIN ÄNGLAMARK 750G
+        Mean absolute percentage error: 9.733579054637324e+17
+        Root mean squared error: 323.47613336944823
+        Mean absolute error: 263.17234934047656
+        R squared: -40.57736488029681
+230. Article number: 704212201
+        Article name: INGEFÆR KG
+        Mean absolute percentage error: 4.5366035132041784e+16
+        Root mean squared error: 316.59979342112393
+        Mean absolute error: 236.70821827114807
+        R squared: -41.32761831915317
+231. Article number: 704309201
+        Article name: GRESSKAR HOKKAIDO ÄNGLAM KG
+        Mean absolute percentage error: 4.595942767506764e+17
+        Root mean squared error: 250.24512555734242
+        Mean absolute error: 202.16115473684837
+        R squared: -42.31352533718399
+232. Article number: 718416601
+        Article name: DADLER SMAK 200G
+        Mean absolute percentage error: 7.424340862035258e+17
+        Root mean squared error: 312.0907129790835
+        Mean absolute error: 241.76746097256967
+        R squared: -42.34552184552076
+233. Article number: 704208301
+        Article name: LØK STJERNELØK 250G STK
+        Mean absolute percentage error: 3.0018981370546656e+17
+        Root mean squared error: 309.1791763594976
+        Mean absolute error: 233.48930364402642
+        R squared: -47.41357378129856
+234. Article number: 711934801
+        Article name: BLOMKÅLRIS 200G
+        Mean absolute percentage error: 2.6111871241338685e+17
+        Root mean squared error: 268.5733234128316
+        Mean absolute error: 200.93991079286897
+        R squared: -49.29295049835863
+235. Article number: 704297801
+        Article name: RØDBETE BNT NO
+        Mean absolute percentage error: 8.132897150386803e+17
+        Root mean squared error: 321.16648127745015
+        Mean absolute error: 257.6012651510253
+        R squared: -49.99368947322684
+236. Article number: 704197801
+        Article name: PAPRIKA GRØNN KG 70+
+        Mean absolute percentage error: 6.657824091220681e+16
+        Root mean squared error: 290.24982669515634
+        Mean absolute error: 228.34990125450005
+        R squared: -50.45057049191729
+237. Article number: 704890701
+        Article name: GRESSKAR BUTTERNUT KG IMP
+        Mean absolute percentage error: 1.4129776094249987e+17
+        Root mean squared error: 237.0511736750427
+        Mean absolute error: 183.09260738785045
+        R squared: -50.8732701536465
+238. Article number: 704300301
+        Article name: STANGSELLERI ØKO 350G
+        Mean absolute percentage error: 8.776350582032874e+17
+        Root mean squared error: 358.5742839549742
+        Mean absolute error: 286.36489612689667
+        R squared: -51.020885391989005
+239. Article number: 704304301
+        Article name: SALAT CRISPI ÄNGLAMARK 120G
+        Mean absolute percentage error: 7.648303148657951e+17
+        Root mean squared error: 348.2566476543866
+        Mean absolute error: 281.8509105757854
+        R squared: -54.61799695335527
+240. Article number: 703911101
+        Article name: PAPRIKA GUL KG 70+
+        Mean absolute percentage error: 6.129377951727841e+16
+        Root mean squared error: 263.50709171603967
+        Mean absolute error: 196.73210477320933
+        R squared: -55.95625361990397
+241. Article number: 704305501
+        Article name: POTET KERRS PINK 2KG
+        Mean absolute percentage error: 1.060997040183702e+18
+        Root mean squared error: 349.90464365790166
+        Mean absolute error: 286.80843115215794
+        R squared: -56.383858329262665
+242. Article number: 704210001
+        Article name: GRØNNKÅL ÄNGLAMARK 200G
+        Mean absolute percentage error: 7.084471964437175e+16
+        Root mean squared error: 235.41815646246226
+        Mean absolute error: 180.77358262687696
+        R squared: -56.96179328697074
+243. Article number: 704037301
+        Article name: KRUSPERSILLE PK
+        Mean absolute percentage error: 7.31174335823073e+16
+        Root mean squared error: 208.2881958907394
+        Mean absolute error: 166.99137334373626
+        R squared: -60.63600344728663
+244. Article number: 704311001
+        Article name: SALAT MEKSIKANSK MIKS 270G
+        Mean absolute percentage error: 7.886343477776024e+16
+        Root mean squared error: 280.7765588008453
+        Mean absolute error: 222.17757732211365
+        R squared: -60.67025724436172
+245. Article number: 704288801
+        Article name: BÆR BJØRNEBÆR 125G
+        Mean absolute percentage error: 3.571444726431325e+17
+        Root mean squared error: 328.92544843935394
+        Mean absolute error: 254.3694167812121
+        R squared: -61.022867951824395
+246. Article number: 704041501
+        Article name: SQUASH ÄNGLAMARK 250G IMP STK
+        Mean absolute percentage error: 4.72752435231421e+17
+        Root mean squared error: 303.63694767032405
+        Mean absolute error: 237.6797357730488
+        R squared: -61.85873845136874
+247. Article number: 712232901
+        Article name: KRY.URT ÄNGLAM 8CM BLADPERSIL.
+        Mean absolute percentage error: 7.956418106254112e+16
+        Root mean squared error: 323.6057233376757
+        Mean absolute error: 254.7105297628603
+        R squared: -64.67367321521614
+248. Article number: 704302001
+        Article name: PERSILLEROT ÄNGLAMARK STK
+        Mean absolute percentage error: 3.8620031186244717e+17
+        Root mean squared error: 246.16726982876892
+        Mean absolute error: 185.61340304741938
+        R squared: -64.9879771431892
+249. Article number: 704036501
+        Article name: KÅLROT ÄNGLAMARK KG
+        Mean absolute percentage error: 1.8813881947787158e+17
+        Root mean squared error: 352.04648545540135
+        Mean absolute error: 263.20774616607247
+        R squared: -67.19093404620439
+250. Article number: 720997901
+        Article name: DADLER 500G PK
+        Mean absolute percentage error: 8.610851320164111e+17
+        Root mean squared error: 254.23789087842323
+        Mean absolute error: 200.8301592787651
+        R squared: -67.22352126165988
+251. Article number: 704894301
+        Article name: PEPPERROT TUBE STK
+        Mean absolute percentage error: 3.811303394084494e+17
+        Root mean squared error: 192.948622577671
+        Mean absolute error: 146.52298614641302
+        R squared: -68.2258701406073
+252. Article number: 712613401
+        Article name: SOPP SKIVET SJAMPINJONG 150G
+        Mean absolute percentage error: 1.0860955172726106e+17
+        Root mean squared error: 366.0833277137514
+        Mean absolute error: 274.9453774137221
+        R squared: -68.63424123414205
+253. Article number: 716543801
+        Article name: KIWI GRØNN ÄNGLAM. 300G
+        Mean absolute percentage error: 1.8897043821449645e+17
+        Root mean squared error: 212.75180783253347
+        Mean absolute error: 149.04433325037382
+        R squared: -69.3499635880111
+254. Article number: 708522901
+        Article name: SOPP KANTARELL SMAK 200G
+        Mean absolute percentage error: 8.200357892362834e+17
+        Root mean squared error: 327.72168285408327
+        Mean absolute error: 260.54713730253224
+        R squared: -75.98069561069799
+255. Article number: 704041401
+        Article name: CHILI RØD ÄNGLAMARK 50G
+        Mean absolute percentage error: 6.29805868819838e+16
+        Root mean squared error: 245.20819978228795
+        Mean absolute error: 195.23151587569006
+        R squared: -78.08800911364368
+256. Article number: 704041301
+        Article name: BROKKOLINI 200G STK
+        Mean absolute percentage error: 1.5544401735055133e+17
+        Root mean squared error: 398.0604707458978
+        Mean absolute error: 341.122966092834
+        R squared: -85.165077418518
+257. Article number: 717576501
+        Article name: GULROT REGNBUE SMAK BNT
+        Mean absolute percentage error: 1.2528715591443338e+18
+        Root mean squared error: 350.9398373942231
+        Mean absolute error: 290.361918955996
+        R squared: -87.71158335269276
+258. Article number: 704559101
+        Article name: CHILI JALAPENO GRØNN 50G
+        Mean absolute percentage error: 1.144100941698149e+17
+        Root mean squared error: 215.56057074547437
+        Mean absolute error: 170.00202518619903
+        R squared: -91.3879925468568
+259. Article number: 704308501
+        Article name: SPIRE ALFALFA ØKO STK
+        Mean absolute percentage error: 1.1416247974775424e+17
+        Root mean squared error: 450.2388626458338
+        Mean absolute error: 390.9384899110373
+        R squared: -98.57665159745837
+260. Article number: 704891101
+        Article name: KRY.URT ÄNGLAM 8CM GRESSLØK
+        Mean absolute percentage error: 1.2865460598903147e+17
+        Root mean squared error: 433.87936507532584
+        Mean absolute error: 331.1424568907855
+        R squared: -100.42578282994197
+261. Article number: 704037501
+        Article name: BLADPERSILLE PK
+        Mean absolute percentage error: 7.746350811274368e+16
+        Root mean squared error: 280.85559699065675
+        Mean absolute error: 204.5605904333849
+        R squared: -101.48838335635294
+262. Article number: 704300501
+        Article name: LIME ÄNGLAMARK 3STK
+        Mean absolute percentage error: 1.0170456149089509e+17
+        Root mean squared error: 302.216324710235
+        Mean absolute error: 237.242773442145
+        R squared: -108.42545600449716
+263. Article number: 704209901
+        Article name: SPISSKÅL RØD STK
+        Mean absolute percentage error: 2.268975946182328e+17
+        Root mean squared error: 265.3429689715886
+        Mean absolute error: 187.90946394341177
+        R squared: -110.49168081842234
+264. Article number: 704292201
+        Article name: BÆR RIPS 125G IMP
+        Mean absolute percentage error: 5.017363877853612e+17
+        Root mean squared error: 303.89059631267475
+        Mean absolute error: 239.5533154921626
+        R squared: -111.3488304831296
+265. Article number: 715179101
+        Article name: LØK RØD BUNT
+        Mean absolute percentage error: 1.128836624999481e+18
+        Root mean squared error: 330.1251614165396
+        Mean absolute error: 274.04705570168693
+        R squared: -112.85155255879639
+266. Article number: 715179201
+        Article name: LØK GUL BUNT
+        Mean absolute percentage error: 9.340527857202513e+17
+        Root mean squared error: 327.1970919164685
+        Mean absolute error: 244.82242593518492
+        R squared: -119.20513169175818
+267. Article number: 720482501
+        Article name: FIKEN STK
+        Mean absolute percentage error: 7.813059707523574e+17
+        Root mean squared error: 296.90482031935164
+        Mean absolute error: 230.79907331074753
+        R squared: -122.5226163016579
+268. Article number: 720821801
+        Article name: BÆR TYTTEBÆR 500G
+        Mean absolute percentage error: 9.240028522657682e+17
+        Root mean squared error: 268.55907575080045
+        Mean absolute error: 211.86677656943033
+        R squared: -127.04971480592462
+269. Article number: 704890901
+        Article name: KRY.URT ÄNGLAM 8CM SITRONMELIS
+        Mean absolute percentage error: 1.9326599679086477e+17
+        Root mean squared error: 344.8632654722296
+        Mean absolute error: 268.4799334266233
+        R squared: -129.84754181775753
+270. Article number: 704892201
+        Article name: KRY.URT ÄNGLAM 8CM OREGANO
+        Mean absolute percentage error: 1.36647438747355e+17
+        Root mean squared error: 269.1204967223631
+        Mean absolute error: 202.32515974349627
+        R squared: -131.94657065235452
+271. Article number: 720788101
+        Article name: POTET ÄNGLAMARK 1.2KG NO
+        Mean absolute percentage error: 5.883060439037848e+17
+        Root mean squared error: 287.2114798460042
+        Mean absolute error: 215.05224557118873
+        R squared: -133.88392587265213
+272. Article number: 704319901
+        Article name: SOPP AROMA KG
+        Mean absolute percentage error: 9.490088972915899e+16
+        Root mean squared error: 236.22962467005524
+        Mean absolute error: 174.63328673596433
+        R squared: -145.21749086931686
+273. Article number: 704286301
+        Article name: RABARBRA KG
+        Mean absolute percentage error: 7.113308740294287e+17
+        Root mean squared error: 223.1249455835059
+        Mean absolute error: 171.2788485087216
+        R squared: -148.64244300604744
+274. Article number: 704040801
+        Article name: LØK HVITLØK 500G FLETTE
+        Mean absolute percentage error: 9.735247063302797e+16
+        Root mean squared error: 224.4351624693908
+        Mean absolute error: 180.64204386416455
+        R squared: -150.66098836757308
+275. Article number: 704313701
+        Article name: SQUASH ÄNGLAMARK NO STK
+        Mean absolute percentage error: 8.007555238631183e+17
+        Root mean squared error: 328.9470262197812
+        Mean absolute error: 264.1343682055423
+        R squared: -153.60203836753615
+276. Article number: 704316501
+        Article name: DRUE FARGET ÄNGLAMARK 400G
+        Mean absolute percentage error: 6.328464985133152e+17
+        Root mean squared error: 307.3193579313157
+        Mean absolute error: 241.3254667366295
+        R squared: -154.43444124052203
+277. Article number: 704315701
+        Article name: KNUTEKÅL KG
+        Mean absolute percentage error: 2.3302719311032093e+17
+        Root mean squared error: 269.46019663005467
+        Mean absolute error: 209.567737561927
+        R squared: -163.8166420992172
+278. Article number: 706345601
+        Article name: CHILI HABANERO 50G
+        Mean absolute percentage error: 2.1115126266980592e+17
+        Root mean squared error: 304.3110364873452
+        Mean absolute error: 238.49005557195235
+        R squared: -166.89817068516874
+279. Article number: 720476901
+        Article name: SALAT SPINAT ÄNGLAM UVASK 150G
+        Mean absolute percentage error: 8.290497899933897e+17
+        Root mean squared error: 331.99659934293203
+        Mean absolute error: 262.16966527999807
+        R squared: -168.04385896241047
+280. Article number: 703911301
+        Article name: AVOKADO ØKO 300G STK
+        Mean absolute percentage error: 9.236964313083845e+16
+        Root mean squared error: 322.6189039744848
+        Mean absolute error: 251.90126499774067
+        R squared: -175.13272562664383
+281. Article number: 707585701
+        Article name: SOPP SJAMPINJONG ÄNGLAM. 250G
+        Mean absolute percentage error: 1.0254438504017382e+17
+        Root mean squared error: 327.28219274536093
+        Mean absolute error: 263.9238572287596
+        R squared: -176.4843598076403
+282. Article number: 715331601
+        Article name: POTET CERISA DELIKAT SMAK 650G
+        Mean absolute percentage error: 8.932294784266796e+17
+        Root mean squared error: 321.29061345648836
+        Mean absolute error: 262.63829808111785
+        R squared: -176.73805435471112
+283. Article number: 704317101
+        Article name: STANGSELLERI ÄNGLAMARK 350G
+        Mean absolute percentage error: 4.972613123367144e+17
+        Root mean squared error: 289.76456747992887
+        Mean absolute error: 229.96336884984868
+        R squared: -187.2965666736811
+284. Article number: 717576401
+        Article name: GULROT REGNBUE SMAK BGR 750G
+        Mean absolute percentage error: 6.91518108582778e+17
+        Root mean squared error: 355.8523130646406
+        Mean absolute error: 272.34490971441863
+        R squared: -191.35822274862744
+285. Article number: 720997801
+        Article name: BETEMIX ÄNGLAMARK 550G
+        Mean absolute percentage error: 1.2327987619564296e+18
+        Root mean squared error: 427.2855743267076
+        Mean absolute error: 353.3733281697312
+        R squared: -200.5400536415664
+286. Article number: 704211501
+        Article name: VÅRLØK ÄNGLAMARK STK
+        Mean absolute percentage error: 9.660409438209105e+17
+        Root mean squared error: 377.28276953384926
+        Mean absolute error: 302.4449415918173
+        R squared: -210.77617089902955
+287. Article number: 710796101
+        Article name: SPIRE BØNNE ØKO 180G
+        Mean absolute percentage error: 8.790567659875965e+16
+        Root mean squared error: 279.45421893270753
+        Mean absolute error: 207.52216488912225
+        R squared: -222.43720705712437
+288. Article number: 704198601
+        Article name: SALAT ROMANO STK
+        Mean absolute percentage error: 5.410159170285107e+17
+        Root mean squared error: 306.36120079733956
+        Mean absolute error: 228.47898182513325
+        R squared: -223.21990067258776
+289. Article number: 704201301
+        Article name: PITAHAYA KG
+        Mean absolute percentage error: 5.2908997475453126e+17
+        Root mean squared error: 231.02886863208025
+        Mean absolute error: 172.47094082650892
+        R squared: -239.34512756606512
+290. Article number: 704889701
+        Article name: KRY.URT ÄNGLAM 12CM KRUSPERS.
+        Mean absolute percentage error: 2.2532264574786992e+17
+        Root mean squared error: 228.94507474999924
+        Mean absolute error: 169.6417364878197
+        R squared: -277.0201287389346
+291. Article number: 704889901
+        Article name: KRY.URT ÄNGLAM 12CM KORIANDER
+        Mean absolute percentage error: 2.4934608156617382e+17
+        Root mean squared error: 251.74318537246677
+        Mean absolute error: 201.86519069468412
+        R squared: -281.8513225974267
+292. Article number: 704308701
+        Article name: SPIRE BROKKOLI ØKO 50G
+        Mean absolute percentage error: 6.234040478742238e+16
+        Root mean squared error: 238.31074073130492
+        Mean absolute error: 173.3500250086211
+        R squared: -286.0568486651386
+293. Article number: 704293601
+        Article name: PAPAYA STOR KG
+        Mean absolute percentage error: 1.7334931472162035e+17
+        Root mean squared error: 250.9718886684618
+        Mean absolute error: 183.4604653658932
+        R squared: -321.7155597091721
+294. Article number: 704205401
+        Article name: SITRONGRESS 50G
+        Mean absolute percentage error: 2.4698262002909827e+17
+        Root mean squared error: 216.11037347468098
+        Mean absolute error: 172.09910465048873
+        R squared: -324.6463125363485
+295. Article number: 704207701
+        Article name: SELLERIROT ÄNGLAMARK KG
+        Mean absolute percentage error: 2.379824510540064e+17
+        Root mean squared error: 241.0617005733614
+        Mean absolute error: 181.19178517659506
+        R squared: -325.5885094626965
+296. Article number: 704039501
+        Article name: SPIRE KLØVER ØKO 50G
+        Mean absolute percentage error: 1.5678702533083174e+17
+        Root mean squared error: 233.15398496398169
+        Mean absolute error: 173.59982386898233
+        R squared: -373.5372251303675
+297. Article number: 709729401
+        Article name: CHILI RØD RAWIT 50G
+        Mean absolute percentage error: 4.022620362685288e+17
+        Root mean squared error: 272.65119850703326
+        Mean absolute error: 218.1331605374178
+        R squared: -413.9806167427046
+298. Article number: 704894501
+        Article name: PAK CHOY STK
+        Mean absolute percentage error: 2.600047163777592e+17
+        Root mean squared error: 283.4779069724406
+        Mean absolute error: 215.50556059188494
+        R squared: -433.2601561846046
+299. Article number: 722283901
+        Article name: POTET KOKEFAST 2KG IMP
+        Mean absolute percentage error: 9.416416571926632e+17
+        Root mean squared error: 283.8196848733634
+        Mean absolute error: 209.65463267577474
+        R squared: -446.0107726590722
+300. Article number: 704889101
+        Article name: BÆR TRANEBÆR 250G
+        Mean absolute percentage error: 7.673928280677105e+17
+        Root mean squared error: 257.9757445150857
+        Mean absolute error: 193.98531786310437
+        R squared: -463.1733941307802
+301. Article number: 721886401
+        Article name: KRY.URT ÄNG.12CM THAIBASILIKUM
+        Mean absolute percentage error: 1.1695373599145375e+18
+        Root mean squared error: 360.70342927768553
+        Mean absolute error: 286.42359724001255
+        R squared: -464.6714002945145
+302. Article number: 709170701
+        Article name: POTET MANDEL ENGELØYA 900G
+        Mean absolute percentage error: 9.093931631075574e+17
+        Root mean squared error: 313.08750898848956
+        Mean absolute error: 238.48854156099316
+        R squared: -476.21645560518647
+303. Article number: 704039601
+        Article name: GURKEMEIE ÄNGLAMARK 100G
+        Mean absolute percentage error: 1.721561547378576e+17
+        Root mean squared error: 312.82028974489197
+        Mean absolute error: 247.8564911875732
+        R squared: -486.05409594598444
+304. Article number: 704889801
+        Article name: KRY.URT ÄNGLAM 12CM BASILIKUM
+        Mean absolute percentage error: 3.2631076511693984e+17
+        Root mean squared error: 438.4182944391963
+        Mean absolute error: 365.5230831453971
+        R squared: -528.8223753014857
+305. Article number: 715287401
+        Article name: RØDBETE SOUS VIDE ÄNGLAM. 500G
+        Mean absolute percentage error: 4.277454727012963e+17
+        Root mean squared error: 322.57761967556047
+        Mean absolute error: 256.9976641743513
+        R squared: -554.279072828641
+306. Article number: 704039401
+        Article name: SPIRE REDDIK ØKO 50G
+        Mean absolute percentage error: 1.1700198999478501e+17
+        Root mean squared error: 306.34767829293247
+        Mean absolute error: 240.11140950520834
+        R squared: -570.919021963624
+307. Article number: 704289501
+        Article name: DADLER KG
+        Mean absolute percentage error: 2.0085014020376858e+17
+        Root mean squared error: 321.98430918102923
+        Mean absolute error: 258.26053096242873
+        R squared: -617.520047968782
+308. Article number: 704289601
+        Article name: PHYSALIS 100G
+        Mean absolute percentage error: 3.178613125902173e+17
+        Root mean squared error: 362.3657870260924
+        Mean absolute error: 291.85927701976203
+        R squared: -681.8272830781791
+309. Article number: 704310601
+        Article name: KOKOSNØTT ØKO STK
+        Mean absolute percentage error: 4.4017816058135264e+17
+        Root mean squared error: 262.0372323567766
+        Mean absolute error: 192.68738352109307
+        R squared: -736.4937113508962
+310. Article number: 704312501
+        Article name: KOKEBANAN KG
+        Mean absolute percentage error: 2.429550844611247e+17
+        Root mean squared error: 244.234219071387
+        Mean absolute error: 184.7696293753939
+        R squared: -765.4942190416238
+311. Article number: 704208601
+        Article name: BÆR BLÅBÆR ÄNGLAMARK 125G STK
+        Mean absolute percentage error: 3.836254800406027e+17
+        Root mean squared error: 403.06383865633666
+        Mean absolute error: 305.19223550828445
+        R squared: -1173.3555018103914
+312. Article number: 704202501
+        Article name: ROMANESCO STK
+        Mean absolute percentage error: 9.016346038053298e+17
+        Root mean squared error: 301.5109188743464
+        Mean absolute error: 231.47212240721356
+        R squared: -1494.081839921501
+313. Article number: 704203401
+        Article name: HODEKÅL SAVOY KG
+        Mean absolute percentage error: 6.862826507120033e+17
+        Root mean squared error: 305.5332121332758
+        Mean absolute error: 242.2454917594178
+        R squared: -1505.8531190254982
+314. Article number: 704312301
+        Article name: SOPP ØSTERS KG
+        Mean absolute percentage error: 2.1099223285690176e+17
+        Root mean squared error: 238.16992964733512
+        Mean absolute error: 188.34638954987082
+        R squared: -2294.325197152035
+315. Article number: 713865201
+        Article name: KRY.URT ØKO ESTRAGON 12 CM
+        Mean absolute percentage error: 6.7089606974806e+17
+        Root mean squared error: 334.65555485667636
+        Mean absolute error: 270.4002615697852
+        R squared: -2934.601400386783
+316. Article number: 704891701
+        Article name: JORDSKOKK KG
+        Mean absolute percentage error: 5.459323355502523e+17
+        Root mean squared error: 327.02953591871864
+        Mean absolute error: 267.6906074570376
+        R squared: -3126.7641065052817
+317. Article number: 704893601
+        Article name: SIKORI 300G
+        Mean absolute percentage error: 3.971475643186385e+17
+        Root mean squared error: 279.37653003323135
+        Mean absolute error: 220.81651275959914
+        R squared: -3225.548525612856
+318. Article number: 713873701
+        Article name: KRY.URT ØKO SALVIE 12 CM
+        Mean absolute percentage error: 6.780568554235836e+17
+        Root mean squared error: 287.16271221156006
+        Mean absolute error: 222.4482009458034
+        R squared: -4178.82122657752
+319. Article number: 704036301
+        Article name: LØK HVITLØK FERSK KG
+        Mean absolute percentage error: 3.37267794304592e+17
+        Root mean squared error: 387.5185924511025
+        Mean absolute error: 308.95934767120684
+        R squared: -4919.205789241154
+320. Article number: 7186328
+        Article name: KRY.URT ÄNG 8CM KRUS DILL GRES
+        Mean absolute percentage error: 5.691951279274721e+17
+        Root mean squared error: 344.2542444854913
+        Mean absolute error: 255.39907543118505
+        R squared: -6315.096027829804
+321. Article number: 7184904
+        Article name: KRY.URT ÄNG 8CM BASIL KORIAN
+        Mean absolute percentage error: 8.566656815325189e+17
+        Root mean squared error: 454.5135298754041
+        Mean absolute error: 395.54406551320443
+        R squared: -7144.143714666432
+322. Article number: 704312401
+        Article name: CHILI RØD KG
+        Mean absolute percentage error: 1.2720148867089179e+17
+        Root mean squared error: 389.90404032205515
+        Mean absolute error: 325.11579836376546
+        R squared: -7623.212857447514
+323. Article number: 704207001
+        Article name: SOPP KANTARELL KG
+        Mean absolute percentage error: 9.751634747276573e+17
+        Root mean squared error: 344.6827151715063
+        Mean absolute error: 273.7927131188333
+        R squared: -24676.408241733287
+324. Article number: 704312201
+        Article name: SOPP PORTABELLO KG
+        Mean absolute percentage error: 2.894499870413094e+17
+        Root mean squared error: 467.81464985436736
+        Mean absolute error: 400.81926480529876
+        R squared: -25940.17910606424
+325. Article number: 704296201
+        Article name: SOPP SHI TAKE KG
+        Mean absolute percentage error: 3.4529064395523494e+17
+        Root mean squared error: 294.0230362222352
+        Mean absolute error: 233.3952457712484
+        R squared: -30901.175323622396

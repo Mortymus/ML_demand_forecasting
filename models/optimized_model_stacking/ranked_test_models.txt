@@ -1,0 +1,65 @@
+Ranking models by test scores
+1. ranked test model
+        Number of features: 351                       
+        Sequence length: 15
+        Number of epochs: 10
+        Learning rate: 0.001
+        Loss function: mse
+        Batch size: 32
+        Number of neurons: 702, 702
+        Dropout rate: 0.1
+            
+        Test results:
+        Mean absolute percentage error: 2.5048608601841894e+17
+        Root mean squared error: 761.1046677067046
+        Mean absolute error: 225.4553807718422
+        R squared: 0.5740103670291816
+
+2. ranked test model
+        Number of features: 351                       
+        Sequence length: 15
+        Number of epochs: 10
+        Learning rate: 0.001
+        Loss function: mse
+        Batch size: 32
+        Number of neurons: 702, 2808
+        Dropout rate: 0.1
+            
+        Test results:
+        Mean absolute percentage error: 2.4041405528651757e+17
+        Root mean squared error: 770.4367532372448
+        Mean absolute error: 219.38631735677512
+        R squared: 0.5635000040027079
+
+3. ranked test model
+        Number of features: 351                       
+        Sequence length: 15
+        Number of epochs: 10
+        Learning rate: 0.001
+        Loss function: mse
+        Batch size: 32
+        Number of neurons: 702, 351
+        Dropout rate: 0.1
+            
+        Test results:
+        Mean absolute percentage error: 2.260450312477856e+17
+        Root mean squared error: 770.6144212131162
+        Mean absolute error: 219.4720482169449
+        R squared: 0.5632986610308175
+
+4. ranked test model
+        Number of features: 351                       
+        Sequence length: 15
+        Number of epochs: 10
+        Learning rate: 0.001
+        Loss function: mse
+        Batch size: 32
+        Number of neurons: 702, 1404
+        Dropout rate: 0.1
+            
+        Test results:
+        Mean absolute percentage error: 2.4112422637214214e+17
+        Root mean squared error: 774.1670027300624
+        Mean absolute error: 222.03069416895772
+        R squared: 0.5592629380330916
+

@@ -4,9 +4,13 @@
 #### Abstract
 Demand forecasting precision is essential for suppliers of perishable items to be able to meet customer demand and avoid over-stocking goods that will inevitably spoil. Accurately predicting demand enables optimal logistical organization that maximize sales and minimize waste, allowing for increased profitability and decreased environmental impact. Machine learning have the potential to improve demand forecasting accuracy in comparison with traditional methods, with a number of established approaches documented to increase precision. This bachelor thesis will implement an LSTM network to create a demand forecasting model for perishable items supplied from a regional distribution center, detailing the associated challenges and strategies for handling them. Data quality and cleaning is essential for successful model implementation, along with careful feature engineering and optimization of hyperparameters. Access to computational resources is necessary to determine optimal model configuration by testing large numbers of model architectures. Combinations of hyperparameters are systematically tested to create an initial model with selected features. Feature relevancy is tested through a series of experiments on the initial model, forming the foundation for further model optimization. Evaluation of model architecture and performance conclude further dataset and feature improvements are necessary to reach an acceptable level of demand forecasting precision, pointing to features describing the availability and type of items as intriguing avenues of future research.
 
+#### Bachelor's thesis
+
+Please see [Link Text](bachelor_thesis.pdf) for the full bachelor's thesis.
+
 # Instructions to Compile and Run System
 
-The project has been stored using Git LFS due to storage of models exceeding 100MB. It is recommended to have Git LFS installed to be able to clone the repository correctly.
+The repository has been created using Git LFS due to storage of models exceeding 100MB. It is recommended to have Git LFS installed to be able to clone the repository correctly.
 
 [https://git-lfs.com/](https://git-lfs.com/)
 
@@ -50,6 +54,8 @@ The codebase includes a set of scripts:
 - `create_lstm_network.py`
 - `create_lstm_plots.py`
 - `create_lstm_test.py`
+- `create_model_ranking.py`
+- `create_model_sorting.py`
 - `create_zero_sale_dictionary.py`
 
 
@@ -62,6 +68,17 @@ Users can use a saved model to plot predictions for specific articles by running
 Users can run tests on saved models by using the `test_saved_model()` function from `model\_tester.py`, producing the plots and prints that are normally produced when the model is created. Run the script `create_lstm_test.py` for an example of how to run the code. Paths for saved models are derived from the specified hyperparameters. Users can specify which subfolder to find the model by using the `model_path` parameter as demonstrated in the example script.
 
 `create_all_articles_sales_plots.py` creates plots of all article sales, storing each plot to an individual pdf. The script also merges all the pdf files into a single file to make viewing them easier. Sales plots are stored in the folder `plots/article_sales`.
+
+Models in a folder and subfolders can be ranked by R2 score on test and train-
+ing sets by using `rank_rootdir_models.py` from `model_tester.py`. Subfolders
+to be avoided can be entered as a function parameter. Results are stored to the di-
+rectory entered to the function for ranking. See the script `create_model_ranking.py` for an example of how to use the function.
+
+All models in a folder and subfolders can be sorted by hyperparameters by us-
+ing `sort_rootdir_models()` from `model_tester.py`. Subfolders to be avoided
+can be entered as a function parameter. Results are stored to the directory en-
+tered to the function for sorting. See the script `create_model_sorting.py` for an
+example of how to use the function
 
 The remaining scripts are used for intializing the necessary files for the project, and can be found in `create_initial_files.py`.
 

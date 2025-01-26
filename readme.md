@@ -6,7 +6,7 @@ Demand forecasting precision is essential for suppliers of perishable items to b
 
 #### Bachelor's thesis
 
-Please see [Link Text](bachelor_thesis.pdf) for the full bachelor's thesis.
+Please see [bachelor_thesis.pdf](bachelor_thesis.pdf) for the full bachelor's thesis.
 
 # Instructions to Compile and Run System
 
